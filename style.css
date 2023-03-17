@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffda7b;
+}
+
+#Sejarah {
+  padding-top: 6rem;
+  background-color: #ffda7b;
+}
+
+section {
+  padding-top: 9rem;
+}
+
+footer {
+  padding-top: 6rem;
+}
+
+#navbar-brandbrand {
+  font-family: "Noto Sans Lepcha", sans-serif;
+}
